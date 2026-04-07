@@ -51,6 +51,6 @@ An interactive desktop application built with C++ and Qt to visualize Dijkstra�
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Nour Adel
