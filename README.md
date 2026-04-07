@@ -82,6 +82,7 @@ This project was developed to better understand graph algorithms and provide a v
 
 ##  Author
 
-**Nour Adel**
+**Nour Adel** \
+**Mawada Osama**
 
 ---
