@@ -80,7 +80,7 @@ This project was developed to better understand graph algorithms and provide a v
 
 ---
 
-##  Author
+##  Authors
 
 **Nour Adel** \
 **Mawada Osama**
