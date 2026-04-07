@@ -21,10 +21,16 @@ An interactive desktop application built with C++ and Qt to visualize Dijkstraâ€
 ##  Screenshots
 
 ### Main Interface
-![UI](images/ui.png)
+<img width="1355" height="706" alt="image" src="https://github.com/user-attachments/assets/fa93b8f7-1c1c-4da5-9920-9539c674da40" />
+<img width="1899" height="209" alt="image" src="https://github.com/user-attachments/assets/95303743-f1ca-4832-b92c-49dea91aca4b" />
+<img width="1915" height="77" alt="image" src="https://github.com/user-attachments/assets/8510837e-268b-4aa8-97db-49f028b665c8" />
+
 
 ### Algorithm Execution
-![Execution](images/run.png)
+<img width="1916" height="300" alt="image" src="https://github.com/user-attachments/assets/54155e23-f4b1-44a5-919a-2e6689bf1f57" />
+<img width="1919" height="201" alt="image" src="https://github.com/user-attachments/assets/4adc00af-cf16-4a27-b9c0-22f5c91bc613" />
+
+
 
 ---
 
