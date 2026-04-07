@@ -2,55 +2,80 @@
 
 An interactive desktop application built with C++ and Qt to visualize Dijkstra’s shortest path algorithm step-by-step.
 
----
-
-## Features
-
-* Interactive graph input (adjacency matrix)
-* Step-by-step animation of Dijkstra algorithm
-* Dynamic node configuration
-* Real-time updates of shortest paths
-* Custom priority queue implementation
+![C++](https://img.shields.io/badge/C++-blue)
+![Qt](https://img.shields.io/badge/Qt-green)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ---
 
-## Tech Stack
+##  Features
 
-* C++
-* Qt (GUI Framework)
-* Data Structures & Algorithms
+- Interactive graph input using an adjacency matrix  
+- Step-by-step visualization of Dijkstra’s algorithm  
+- Dynamic node configuration  
+- Real-time updates of shortest paths  
+- Custom priority queue implementation  
+
+---
+
+##  Screenshots
+
+### Main Interface
+![UI](images/ui.png)
+
+### Algorithm Execution
+![Execution](images/run.png)
+
+---
+
+## Algorithm
+
+This project implements **Dijkstra’s algorithm** to compute the shortest path from a source node to all other nodes in a weighted graph.
+
+- Uses a priority queue for efficiency  
+- Performs edge relaxation step-by-step  
+- Visualizes node visits and distance updates in real time  
+
+**Time Complexity:**  
+O((V + E) log V)
+
+---
+
+## Technologies Used
+
+- C++  
+- Qt (GUI Framework)  
+- Data Structures  
+- Graph Algorithms  
 
 ---
 
 ## How to Run
 
-1. Open `.sln` file in Visual Studio
-2. Ensure Qt is configured
-3. Build the project
-4. Run using **Local Windows Debugger**
+1. Open the `.sln` file in Visual Studio  
+2. Make sure Qt is properly installed and configured  
+3. Build the project (Debug x64)  
+4. Run using **Local Windows Debugger**  
 
 ---
 
-## Screenshots
+##  Purpose
 
-<img width="1387" height="899" alt="image" src="https://github.com/user-attachments/assets/e614e59b-f62e-4899-8b63-0b5627fad3d5" />
-<img width="1906" height="346" alt="image" src="https://github.com/user-attachments/assets/a14c8ece-996f-4de6-b2ff-7487dcab1afa" />
-<img width="1919" height="178" alt="image" src="https://github.com/user-attachments/assets/44eb134e-9d90-4240-9385-00d7bf7bb234" />
-
-
-
+This project was developed to better understand graph algorithms and provide a visual demonstration of how Dijkstra’s algorithm works step-by-step in a GUI environment.
 
 ---
 
-## Concepts
+##  Concepts Covered
 
-* Graph Algorithms (Dijkstra)
-* Priority Queue
-* Object-Oriented Programming
-* GUI Development (Qt)
+- Graph Algorithms (Dijkstra)  
+- Priority Queue  
+- Object-Oriented Programming (OOP)  
+- GUI Development using Qt  
 
 ---
 
-## Author
+##  Author
 
-Nour Adel
+**Nour Adel**
+
+---
